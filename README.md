@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_saha_junior_" target="blank"><img src="https://img.shields.io/twitter/follow/_saha_junior_?logo=twitter&style=for-the-badge" alt="_saha_junior_" /></a> </p>
 
-- 🔭 I’m currently working on [50 Projects In 50 Days](https://github.com/sahajunior/50_Projects_In_50_Days)
+- 🔭 I’m currently working on [JavaScript Pro: Mastering Advanced Concepts and Techniques](https://github.com/sahajunior/JavaScriptPro)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
-- 👯 I’m looking to collaborate on **NULL**
+- 👯 I’m looking to collaborate on **LLMs**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m looking for help with **LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahajunior/](https://github.com/sahajunior/)
 
